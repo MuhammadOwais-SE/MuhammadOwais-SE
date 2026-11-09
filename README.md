@@ -87,7 +87,11 @@ Most of my professional work lives in private client repositories.
 
 ---
 
-<p align="center"><strong>1,600+ contributions on GitHub since 2020</strong></p>
+<p align="center">
+  <a href="https://github.com/MuhammadOwais-SE">
+    <img alt="Total GitHub contributions" src="https://streak-stats.demolab.com/?user=MuhammadOwais-SE&theme=nightowl&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=300" />
+  </a>
+</p>
 
 <p align="center">
   Open to full-stack roles and freelance work on Django, Next.js and Svelte products.
